@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 02B1-C530
+
+ Directory of C:\Users\Admin\Desktop\MyNewProject
+
+14-06-2023  00:59    <DIR>          .
+14-06-2023  00:21    <DIR>          ..
+14-06-2023  00:30               398 index.html
+14-06-2023  00:30               385 test1.txt
+14-06-2023  00:40               445 test2.txt
+14-06-2023  00:59                 0 test4.txt
+               4 File(s)          1,228 bytes
+               2 Dir(s)  63,032,709,120 bytes free
